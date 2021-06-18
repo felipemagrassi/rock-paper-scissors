@@ -1,2 +1,1 @@
-# rock-paper-scissors
- Rock Paper Scissors made with javascript
+# A game of rock paper scissors through webdev console utilizing javascript

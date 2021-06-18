@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.choices {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.result {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 30px 40px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.result * {
+    margin: 0 15px;
+    align-items: center;
+}
